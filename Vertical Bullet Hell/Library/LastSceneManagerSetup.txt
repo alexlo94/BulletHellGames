@@ -1,0 +1,22 @@
+sceneSetups:
+- path: Assets/_Scenes/MenuScreen.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/_Scenes/LevelSelectScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/EasyLevel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/MediumLevel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/HardLevel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/DeathScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Scenes/Victory Screen.unity
+  isLoaded: 0
+  isActive: 0
